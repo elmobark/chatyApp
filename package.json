@@ -1,0 +1,14 @@
+{
+  "name": "chaty",
+  "version": "1.0.0",
+  "description": "A simple Node.js App",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mentor33/chatyApp"
+  },
+  "main": "app.js",
+  "dependencies": {
+    "express": "3.4.8",
+    "socket.io": "^1.1.0"
+  }
+}
